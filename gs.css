@@ -1,0 +1,19 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    size: 18px;
+    color: black;
+}
+.direction{
+    font-family: 'Courier New', Courier, monospace;
+    size: 20;
+    color: black;
+}
+.direction:hover{
+    background-color:lightyellow;
+}
+.AUNT CANDACE{
+    color: greenyellow;
+}
+.MARY{
+    color: lime;
+}
