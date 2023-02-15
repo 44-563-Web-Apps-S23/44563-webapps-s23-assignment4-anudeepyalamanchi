@@ -42,3 +42,18 @@ tr:nth-child(even){
 .name:hover{
     text-shadow: 6px 6px 2px orange;
 }
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+ul{
+    list-style-type: none;
+    margine:0;
+    padding: 0%;
+    overflow: hidden;
+    background-color: gold;
+}
