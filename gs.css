@@ -7,13 +7,35 @@
     font-family: 'Courier New', Courier, monospace;
     size: 20;
     color: black;
+    background-color: azure;
 }
 .direction:hover{
     background-color:lightyellow;
+    background-color: beige;
 }
 .AUNT{
     color: greenyellow;
 }
 .MARY{
     color: lime;
+}
+table,th,td{
+    border: 2px solid;
+    border-collapse: collapse;
+    text-align: center;
+    color:pink; font-weight: bold;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+tr:nth-child(odd){
+    background-color: tomato;
+}
+tr:nth-child(even){
+    background-color: coral;
 }
